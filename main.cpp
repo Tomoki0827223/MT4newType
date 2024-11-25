@@ -7,6 +7,7 @@ struct Vector3 {
 	float x, y, z;
 };
 
+
 struct Quaternion {
 	float x, y, z, w;
 };
